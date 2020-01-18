@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://adamshimi.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://adamshimi.github.io/posts/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://adamshimi.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://adamshimi.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/papers/</loc>
+    <loc>https://adamshimi.github.io/papers/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://adamshimi.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/teaching/</loc>
+    <loc>https://adamshimi.github.io/teaching/</loc>
   </url>
   
 </urlset>

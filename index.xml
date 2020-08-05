@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Impossibility is only the beginning</title>
+    <title>Personal page of Adam Shimi</title>
     <link>https://adamshimi.github.io/</link>
-    <description>Recent content on Impossibility is only the beginning</description>
+    <description>Recent content on Personal page of Adam Shimi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
@@ -16,8 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://adamshimi.github.io/about/</guid>
-      <description>I am a PhD student in theoretical computer science in Toulouse, France. My subject is the theorey of distributed computing, more specifically the use of rounds to abstract away fault and communication models.
-My other interests also include effective altruism, AI safety, literature, Rust and many more.</description>
+      <description>I am a PhD student in theoretical computer science in Toulouse, France. My subject is the theory of distributed computing, more specifically the use of rounds to abstract away fault and communication models.
+My other interests include Effective Altruism, AI safety, Writing and Reading Fiction, Rust and many more.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@ My other interests also include effective altruism, AI safety, literature, Rust 
       
       <guid>https://adamshimi.github.io/papers/</guid>
       <description>Up-to-date list of published and submitted papers, complementing my dblp profile.
- Derivation of Heard-Of Predicates From Elementary Behavioral Patterns, with Aurélie Hurault and Philippe Quéinnec. In submission, with preprint available. K set-agreement bounds in round-based models through combinatorial topology, with Armando Castañeda. In submission, with preprint available. The Splendors and Miseries of Rounds. Published in SIGACT News Distributed Computing Column, issue September 2019. My version. Characterizing Asynchronous Message-Passing Models Through Rounds, with Aurélie Hurault and Philippe Quéinnec.</description>
+ K-set agreement bounds in round-based models through combinatorial topology, with Armando Castañeda. Accepted at PODC 2020, with preprint available. Derivation of Heard-Of Predicates From Elementary Behavioral Patterns, with Aurélie Hurault and Philippe Quéinnec. Published in the Proceedings of FORTE 2020. My version. The Splendors and Miseries of Rounds. Published in SIGACT News Distributed Computing Column, issue September 2019. My version.</description>
     </item>
     
     <item>

@@ -5,11 +5,7 @@
     <link>https://adamshimi.github.io/</link>
     <description>Recent content on Personal page of Adam Shimi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://adamshimi.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://adamshimi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://adamshimi.github.io/about/</link>
